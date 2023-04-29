@@ -1,4 +1,4 @@
-### Hi there 👋
+### DTX Alliance 👋
 
 <!--
 **dtxalliance/dtxalliance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+DTA brings together leading organizations to advance the adoption and integration of digital therapeutic products into traditional medicine. Member companies are aligned in our collective mission to improve clinical and health economic outcomes through the use of high quality, evidence-based digital therapeutics for patients, clinicians, and payors. We are proud that our members are regarded as industry thought leaders in healthcare worldwide.
